@@ -54,20 +54,29 @@ próximo_passo = "primeiro deploy mainnet"
 
 <br/>
 
-## O que eu acredito que vai acontecer
+## O futuro que já está acontecendo
 
 ```
-                    AGORA                          EM BREVE
-                      │                               │
-   bots simples ──────┤              agentes que raciocinam
-   scripts fixos ─────┤      →       leem contexto, adaptam
-   alertas manuais ───┤              executam sozinhos on-chain
-                      │                               │
-              ainda dá pra entrar               você vai chegar
-              no começo disso                   tarde ou não?
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   HOJE                          DAQUI A 2 ANOS              ║
+║   ─────                         ────────────────            ║
+║                                                              ║
+║   humano analisa wallet    →    agente analisa em tempo real ║
+║   humano detecta risco     →    agente alerta antes do risco ║
+║   humano executa DeFi      →    agente executa com contexto  ║
+║   dados on-chain = ruído   →    dados on-chain = inteligência║
+║                                                              ║
+║   a diferença entre os dois mundos:                         ║
+║   quem souber conectar IA com blockchain                     ║
+║   vai construir a infraestrutura do próximo ciclo.           ║
+║                                                              ║
+║   [ é isso que estou aprendendo a fazer ]                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-É aqui que eu quero estar. É aqui que estou construindo.
+Não sei tudo. Mas sei onde o mundo está indo — e estou indo junto.
 
 ---
 
@@ -143,6 +152,8 @@ próximo_passo = "primeiro deploy mainnet"
 ```
 construindo em público · errando em público · chegando lá
 ```
+
+[![X](https://img.shields.io/badge/@Virus__4D-000000?style=flat-square&logo=x&logoColor=cc0000)](https://x.com/Virus_4D)
 
 ![](https://komarev.com/ghpvc/?username=virus4d&color=cc0000&style=flat-square&label=👁)
 
