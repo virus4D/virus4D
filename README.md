@@ -32,18 +32,17 @@ Ainda sou cedo nisso. Mas cedo é a hora certa.
 ### `$ status --live`
 
 ```python
-estudando    = ["Solidity", "LangChain",
-                "CrewAI", "Web3.py"]
+usando       = ["Etherscan API V2", "Base RPC",
+                "Groq LLM", "Vanilla JS"]
 
-construindo  = ["DeFi agent prototype",
-                "on-chain analyzer"]
+em_produção  = ["defi-agent-v0",
+                "wallet-lens"]
 
-pensando_em  = ["Como um LLM pode ler
-                 um smart contract e
-                 explicar o risco
-                 em tempo real?"]
+explorando   = ["como agentes tomam decisões
+                 on-chain com contexto real
+                 sem intervenção humana"]
 
-próximo_passo = "primeiro deploy mainnet"
+próximo_passo = "launch-copilot"
 ```
 
 </td>
@@ -99,12 +98,12 @@ Não sei tudo. Mas sei onde o mundo está indo — e estou indo junto.
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logoColor=cc0000&label=🦜"/>
-<img src="https://img.shields.io/badge/CrewAI-0d0d0d?style=flat-square&logoColor=cc0000&label=🤖"/>
-<img src="https://img.shields.io/badge/OpenAI_API-0d0d0d?style=flat-square&logo=openai&logoColor=cc0000"/>
-<img src="https://img.shields.io/badge/Web3.py-0d0d0d?style=flat-square&logoColor=cc0000"/>
+<img src="https://img.shields.io/badge/Etherscan_API_V2-0d0d0d?style=flat-square&logoColor=cc0000&label=⬡"/>
+<img src="https://img.shields.io/badge/Base_RPC-0d0d0d?style=flat-square&logoColor=cc0000&label=🔵"/>
+<img src="https://img.shields.io/badge/Groq_LLM-0d0d0d?style=flat-square&logoColor=cc0000&label=🤖"/>
 <img src="https://img.shields.io/badge/Ethereum-0d0d0d?style=flat-square&logo=ethereum&logoColor=cc0000"/>
-<img src="https://img.shields.io/badge/IPFS-0d0d0d?style=flat-square&logo=ipfs&logoColor=cc0000"/>
+<img src="https://img.shields.io/badge/Base-0d0d0d?style=flat-square&logoColor=cc0000&label=🔷"/>
+<img src="https://img.shields.io/badge/Vanilla_JS-0d0d0d?style=flat-square&logo=javascript&logoColor=cc0000"/>
 </div>
 
 ---
@@ -113,23 +112,25 @@ Não sei tudo. Mas sei onde o mundo está indo — e estou indo junto.
 
 ## Projetos — construindo em público
 
-> ⚠️ *Nada aqui está pronto. Tudo está em movimento.*
+> *construído do zero. deployado. em evolução.*
 
 ```
-🧪  defi-agent-v0
-    └─ agente que monitora protocolos e resume riscos com LLM
-    └─ status: prototipando
-    └─ aprendendo: como conectar LLM com dados on-chain em tempo real
+🤖  defi-agent-v0                         [EM PRODUÇÃO]
+    └─ cola uma wallet Base → agente IA analisa com Groq LLM
+    └─ detecta padrões, calcula risco, resume em português
+    └─ stack: Etherscan API V2 · Base RPC · Groq · JS
+    └─ 🔗 virus4d.github.io/defi-agent-v0
 
-📊  wallet-lens
-    └─ você cola uma wallet, ele conta a história dela
-    └─ status: conceito + primeiros testes
-    └─ aprendendo: APIs de indexação, Etherscan, Helius
+🔍  wallet-lens                           [EM PRODUÇÃO]
+    └─ cola qualquer wallet ETH → histórico on-chain completo
+    └─ últimas 20 txs com badges IN/OUT/CONTRACT/SELF
+    └─ stack: Etherscan API V2 · corsproxy · Vanilla JS
+    └─ 🔗 virus4d.github.io/wallet-lens
 
-🚀  launch-copilot
-    └─ assistente de IA para quem quer lançar projeto Web3
-    └─ status: pesquisando o problema
-    └─ aprendendo: o que realmente trava um lançamento?
+🚀  launch-copilot                        [EM CONSTRUÇÃO]
+    └─ assistente de IA para lançar projetos Web3
+    └─ o que realmente trava um lançamento? isso.
+    └─ status: construindo
 ```
 
 ---
